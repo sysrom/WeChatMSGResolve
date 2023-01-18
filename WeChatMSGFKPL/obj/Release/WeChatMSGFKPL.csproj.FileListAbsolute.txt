@@ -1,0 +1,13 @@
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\bin\Release\WeChatMSGFKPL.exe.config
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\bin\Release\WeChatMSGFKPL.exe
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\bin\Release\WeChatMSGFKPL.pdb
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.csproj.AssemblyReference.cache
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.Form1.resources
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.Properties.Resources.resources
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.csproj.GenerateResource.cache
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.csproj.CoreCompileInputs.cache
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.exe
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.pdb
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\bin\Release\System.Data.SQLite.dll
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\bin\Release\System.Data.SQLite.xml
+C:\Users\SYSTEM ERROR\source\repos\WeChatMSGFKPL\WeChatMSGFKPL\obj\Release\WeChatMSGFKPL.csproj.CopyComplete
